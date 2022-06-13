@@ -1,2 +1,2 @@
 # Travel-Mode-Predicting
-This project predict NYC people's choice of their traveling mode
+This project predicts NYC people's choice of traveling mode (Taxi, bus, subway, biking, walking, and driving)
